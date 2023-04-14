@@ -34,7 +34,7 @@ body {
 body {
   margin: 0;
   padding: 0;
-  background-color: orange;
+  background-color: #957086;
 }
 
 a.icon {
@@ -81,7 +81,7 @@ p {
 
 .game-select {
   display: flex;
-  justify-content: center;
+  justify-content: start;
   gap: 3%;
   flex-wrap: wrap;
   max-width: 100%;
