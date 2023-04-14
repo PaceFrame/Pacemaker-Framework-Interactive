@@ -51,7 +51,7 @@ img.icon {
 }
 
 header {
-  display: flex;
+  display: grid;
   align-items: start;
   padding: 0;
   margin: 0;
@@ -76,12 +76,12 @@ p {
 }
 
 .game-container {
-  display: flex;
+  display: grid;
   justify-content: start;
 }
 
 .game-select {
-  display: flex;
+  display: grid;
   justify-content: start;
   gap: 3%;
   flex-wrap: wrap;
