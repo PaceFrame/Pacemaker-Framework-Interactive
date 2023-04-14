@@ -76,12 +76,12 @@ p {
 }
 
 .game-container {
-  display: none;
+  display: grid;
   justify-content: space-evenly;
 }
 
 .game-select {
-  display: none;
+  display: grid;
   justify-content: space-evenly;
   gap: 3%;
   flex-wrap: wrap;
