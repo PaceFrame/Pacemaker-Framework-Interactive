@@ -5,7 +5,7 @@ MOMC:
 [<img src="images/Sand.png" width="400" alt="snake game">][BloodontheSand]
 
 2. [Battle Arena (Work In Progress)][battle-arena]  
-[<img src="images/battle-arena.png" width="400" alt="battle Arena game">][battle-arena]
+[<img src="images/bridge.png" width="400" alt="battle Arena game">][bridge]
 
 [BloodontheSand]: https://ameverythingand.github.io/Blood-on-the-Sand/
-[battle-arena]: battle-arena/
+[bridge: battle-arena/
