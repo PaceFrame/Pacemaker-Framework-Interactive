@@ -72,19 +72,19 @@ h4,
 h5,
 h6,
 p {
-  text-align: space-evenly;
+  text-align: center;
 }
 
 .game-container {
   display: grid;
-  justify-content: space-evenly;
+  justify-content: center;
   grid-template-columns: 100px 100px 100px;
   grid-template-rows: auto;
 }
 
 .game-select {
   display: grid;
-  justify-content: space-evenly;
+  justify-content: center;
   gap: 3%;
   flex-wrap: wrap;
   max-width: 100%;
