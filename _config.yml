@@ -1,7 +1,1 @@
-theme: Minimal theme
-title: Pacemaker Framework Interactive
-logo: /assets/img/logo.png
-description: 
-seal: false
-background-image: img src="images/custom gingham final.png"
-background-repeat: repeat;
+remote_theme: pages-themes/minimal@v0.2.0
