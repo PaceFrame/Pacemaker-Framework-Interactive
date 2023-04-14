@@ -4,8 +4,8 @@ MOMC:
 1. [BloodontheSand][BloodontheSand]  
 [<img src="images/Sand.png" width="400" alt="snake game">][BloodontheSand]
 
-2. [bridge][bridge]  
-[<img src="images/bridge.png" width="400" alt="battle Arena game">][bridge]
+2. [U][U]  
+[<img src="images/bridge.png" width="400" alt="battle Arena game">][U]
 
 [BloodontheSand]: https://ameverythingand.github.io/Blood-on-the-Sand/
-[bridge: battle-arena/
+[U]: https://ameverythingand.github.io/U/
