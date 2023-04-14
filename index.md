@@ -7,8 +7,8 @@ MOMC:
 2. [U][U]  
 [<img src="images/U.png" width="400" alt="battle Arena game">][U]
 
-2. [Heavy][Heavy]  
-[<img src="images/U.png" width="400" alt="battle Arena game">][Heavy]
+3. [Heavy][Heavy]  
+[<img src="images/Heav.png" width="400" alt="battle Arena game">][Heavy]
 
 [BloodontheSand]: https://ameverythingand.github.io/Blood-on-the-Sand/
 [U]: https://ameverythingand.github.io/U/
