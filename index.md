@@ -1,8 +1,8 @@
 MOMC:
 ------ 
 <div class="column game_column"><div class="game_grid_widget base_widget user_game_grid">
-1. [BloodontheSand][[BloodontheSand](https://ameverythingand.github.io/Blood-on-the-Sand/)]  
-[<img src="images/Bottle.png" width="400" alt="snake game" width="120" height="120">][[BloodontheSand](https://ameverythingand.github.io/Blood-on-the-Sand/)]
+
+  1.[<img src="images/Bottle.png" width="400" alt="snake game" width="120" height="120">][[BloodontheSand](https://ameverythingand.github.io/Blood-on-the-Sand/)]
 
 2. [U][U]  
 [<img src="images/U.png" width="400" alt="battle Arena game" width="120" height="120">][U]
@@ -10,6 +10,4 @@ MOMC:
 3. [Heavy][Heavy]  
 [<img src="images/Heav.png" width="400" alt="battle Arena game" width="120" height="120">][Heavy]
 
-[BloodontheSand]: https://ameverythingand.github.io/Blood-on-the-Sand/
-[U]: https://ameverythingand.github.io/U/
-[Heavy]: https://ameverythingand.github.io/Heavy/
+
