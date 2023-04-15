@@ -8,5 +8,8 @@ MOMC:
 
 <h5>Heavy</h5><div class="column"><p><a href="https://ameverythingand.github.io/Heavy/"><img src="images/Heav.png" width="400" alt="Heavy" width="120" height="120"></a></p></div>
 
+ <h5>Heavy</h5><div class="column"><p><a href="https://ameverythingand.github.io/Heavy/"><img src="images/Heav.png" width="400" alt="Heavy" width="120" height="120"></a></p></div>
   
+ <h5>Heavy</h5><div class="column"><p><a href="https://ameverythingand.github.io/Heavy/"><img src="images/Heav.png" width="400" alt="Heavy" width="120" height="120"></a></p></div>
+  <h5>Heavy</h5><div class="column"><p><a href="https://ameverythingand.github.io/Heavy/"><img src="images/Heav.png" width="400" alt="Heavy" width="120" height="120"></a></p></div>
 
