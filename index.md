@@ -12,7 +12,7 @@ MOMC:
   
   <h5><a href="#">Throw Those Knucklebones</a></h5><div class="column"><p><a href="https://paceframe.github.io/Throw-Those-Knucklebones/"><img src="images/Throw Those Knucklebones.png" style="background-color:transparent;"  width="400" alt="Hoocch" width="120" height="120"></a></p></div>
   
-  <div class="div_r">
-    <h5>Blood on the Sand</h5><div class="div_r"><dive-align="right"><p><a href="https://paceframe.github.io/Blood-on-the-Sand/"><img src="images/Bottle.png" width="400" alt="Sand" width="120" height="120"></a></p></div>
+  <div class="row">
+    <h5>Blood on the Sand</h5><div class="right"><dive-align="right"><p><a href="https://paceframe.github.io/Blood-on-the-Sand/"><img src="images/Bottle.png" width="400" alt="Sand" width="120" height="120"></a></p></div>
   
  
