@@ -1,7 +1,8 @@
 MOMC:
 ------ 
 <div class="row">
-<div class="transparent">
+<div class="background-color: transparent">
+<div class="border: none">
   
   <h5>Blood on the Sand</h5><div class="column"><p><a href="https://paceframe.github.io/Blood-on-the-Sand/"><img src="images/Bottle.png" width="400" alt="Sand" width="120" height="120"></a></p></div>
 
