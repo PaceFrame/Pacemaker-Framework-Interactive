@@ -1,3 +1,4 @@
 remote_theme: default.html
 footer: none
-<link rel="icon" type="image/x-icon" href="https://www.blogger.com/blog/page/edit/32011819727553389/2797039254287130045#">
+<link rel="icon" type="image/x-icon" href="https://blogger.googleusercontent.com/img/a/AVvXsEivax_qDoRTctGvSpXQXh27JwiMVE8qoaPJJWkR1UOkBalAZPN68glx8EdM8i1g-ZRXqPpZbMoezwedEKp2I19jWSvIAJD66o6pSj4m_eJuk-qczdJiNpkc4GQ108Cr_nYoiKSmypYBiDe3zpkSoyx_zB4rMSxVLMKN3nfqgE1s98BKRvt2wEy05uOX">
+<link rel="shortcut icon" type="image/png" href="{{ "https://blogger.googleusercontent.com/img/a/AVvXsEivax_qDoRTctGvSpXQXh27JwiMVE8qoaPJJWkR1UOkBalAZPN68glx8EdM8i1g-ZRXqPpZbMoezwedEKp2I19jWSvIAJD66o6pSj4m_eJuk-qczdJiNpkc4GQ108Cr_nYoiKSmypYBiDe3zpkSoyx_zB4rMSxVLMKN3nfqgE1s98BKRvt2wEy05uOX" | prepend: site.baseurl }}" >
