@@ -1,6 +1,7 @@
 MOMC:
 ------ 
 <div class="row">
+  <div class=background-color: transparent;>
   
   <h5>Blood on the Sand</h5><div class="column"><p><a href="https://paceframe.github.io/Blood-on-the-Sand/"><img src="images/Bottle.png" width="400" alt="Sand" width="120" height="120"></a></p></div>
 
@@ -10,4 +11,4 @@ MOMC:
 
   <h5><a href="Game Instructions/Hoocch314 Instructions.pdf">Hoocch314</a></h5><div class="column"><p><a href="https://paceframe.github.io/Hoocch314/"><img src="images/Hoocch314.png" width="400" alt="Hoocch" width="120" height="120"></a></p></div>
   
-  <h5><a href="#">Throw Those Knucklebones</a></h5><div class="column"><p><a href="https://paceframe.github.io/Throw-Those-Knucklebones/"><img src="images/Throw Those Knucklebones.png" width="400" alt="Hoocch" style="opacity:0.4;filter:alpha(opacity=40); width="120" height="120"></a></p></div>
+  <h5><a href="#">Throw Those Knucklebones</a></h5><div class="column"><p><a href="https://paceframe.github.io/Throw-Those-Knucklebones/"><img src="images/Throw Those Knucklebones.png" width="400" alt="Hoocch" width="120" height="120"></a></p></div>
