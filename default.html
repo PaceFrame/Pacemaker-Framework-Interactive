@@ -9,7 +9,6 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.scss' | append: site.github.build_revision | relative_url }}">
-    <link rel="icon" type="image/x-icon" href="images/Cream-Cake-Slice.ico">
     <script src="{{ '/assets/css/style.scss' | relative_url }}"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
@@ -21,6 +20,7 @@
     <div class="wrapper">
       <header>
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
+        <link rel="icon" type="image/x-icon" href="images/Cream-Cake-Slice.ico">
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
 
         <ul>
