@@ -1,4 +1,4 @@
-<link rel="icon" type="image/x-icon" href="images/Cream-Cake-Slice.ico">MOMC:
+MOMC:
 ------ 
 <div class="row">
   
